@@ -8,6 +8,8 @@ public class App {
 
         System.out.println(tervehdys + " tiimi");
 
+        System.out.println("Hellou vain kaikille!");
+
 
     }
 }
