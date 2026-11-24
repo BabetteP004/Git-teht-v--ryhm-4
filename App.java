@@ -10,6 +10,8 @@ public class App {
 
         System.out.println("Hellou vain kaikille!");
 
+        System.out.println("Hei on mukavaa tehtä ryhmätyötä kanssanne");
+
 
     }
 }
